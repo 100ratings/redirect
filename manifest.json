@@ -1,9 +1,9 @@
 {
-  "name": "PIL.LOL Dashboard",
-  "short_name": "PIL.LOL",
+  "name": "PIL Dashboard",
+  "short_name": "PIL",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#F2F2F7",
+  "background_color": "#000000",
   "theme_color": "#007AFF",
   "icons": [
     {
